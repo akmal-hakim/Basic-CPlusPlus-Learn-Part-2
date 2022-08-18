@@ -1,0 +1,362 @@
+﻿Build started 09/04/2018 2:24:16 PM.
+     1>Project "F:\CSC138\FILE STUDY IN CLASS\ARRAY6(ENUMERATION)\enumeration\enumeration.vcxproj" on node 2 (build target(s)).
+     1>PrepareForBuild:
+         Creating directory "F:\CSC138\FILE STUDY IN CLASS\ARRAY6(ENUMERATION)\Debug\".
+       InitializeBuildStatus:
+         Creating "Debug\enumeration.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt kok.cpp
+         kok.cpp
+     1>f:\csc138\file study in class\array6(enumeration)\enumeration\kok.cpp(12): error C2057: expected constant expression
+     1>f:\csc138\file study in class\array6(enumeration)\enumeration\kok.cpp(12): error C2466: cannot allocate an array of constant size 0
+     1>f:\csc138\file study in class\array6(enumeration)\enumeration\kok.cpp(12): error C2057: expected constant expression
+     1>f:\csc138\file study in class\array6(enumeration)\enumeration\kok.cpp(12): error C2466: cannot allocate an array of constant size 0
+     1>f:\csc138\file study in class\array6(enumeration)\enumeration\kok.cpp(12): error C2087: 'inStock' : missing subscript
+     1>f:\csc138\file study in class\array6(enumeration)\enumeration\kok.cpp(12): error C2133: 'inStock' : unknown size
+     1>f:\csc138\file study in class\array6(enumeration)\enumeration\kok.cpp(17): error C2784: 'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::error_code &)' : could not deduce template argument for 'std::basic_ostream<_Elem,_Traits> &' from 'std::basic_istream<_Elem,_Traits>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(1085) : see declaration of 'std::operator <<'
+     1>f:\csc138\file study in class\array6(enumeration)\enumeration\kok.cpp(17): error C2784: 'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::error_code &)' : could not deduce template argument for 'std::basic_ostream<_Elem,_Traits> &' from 'std::basic_istream<_Elem,_Traits>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(1085) : see declaration of 'std::operator <<'
+     1>f:\csc138\file study in class\array6(enumeration)\enumeration\kok.cpp(17): error C2784: 'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::error_code &)' : could not deduce template argument for 'std::basic_ostream<_Elem,_Traits> &' from 'std::basic_istream<_Elem,_Traits>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(1085) : see declaration of 'std::operator <<'
+     1>f:\csc138\file study in class\array6(enumeration)\enumeration\kok.cpp(17): error C2784: 'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::error_code &)' : could not deduce template argument for 'std::basic_ostream<_Elem,_Traits> &' from 'std::basic_istream<_Elem,_Traits>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(1085) : see declaration of 'std::operator <<'
+     1>f:\csc138\file study in class\array6(enumeration)\enumeration\kok.cpp(17): error C2784: 'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &&,_Ty)' : could not deduce template argument for 'std::basic_ostream<_Elem,_Traits> &&' from 'std::basic_istream<_Elem,_Traits>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(968) : see declaration of 'std::operator <<'
+     1>f:\csc138\file study in class\array6(enumeration)\enumeration\kok.cpp(17): error C2784: 'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &&,_Ty)' : could not deduce template argument for 'std::basic_ostream<_Elem,_Traits> &&' from 'std::basic_istream<_Elem,_Traits>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(968) : see declaration of 'std::operator <<'
+     1>f:\csc138\file study in class\array6(enumeration)\enumeration\kok.cpp(17): error C2784: 'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &&,_Ty)' : could not deduce template argument for 'std::basic_ostream<_Elem,_Traits> &&' from 'std::basic_istream<_Elem,_Traits>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(968) : see declaration of 'std::operator <<'
+     1>f:\csc138\file study in class\array6(enumeration)\enumeration\kok.cpp(17): error C2784: 'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &&,_Ty)' : could not deduce template argument for 'std::basic_ostream<_Elem,_Traits> &&' from 'std::basic_istream<_Elem,_Traits>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(968) : see declaration of 'std::operator <<'
+     1>f:\csc138\file study in class\array6(enumeration)\enumeration\kok.cpp(17): error C2784: 'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,unsigned char)' : could not deduce template argument for 'std::basic_ostream<char,_Traits> &' from 'std::basic_istream<_Elem,_Traits>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(958) : see declaration of 'std::operator <<'
+     1>f:\csc138\file study in class\array6(enumeration)\enumeration\kok.cpp(17): error C2784: 'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,unsigned char)' : could not deduce template argument for 'std::basic_ostream<char,_Traits> &' from 'std::basic_istream<_Elem,_Traits>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(958) : see declaration of 'std::operator <<'
+     1>f:\csc138\file study in class\array6(enumeration)\enumeration\kok.cpp(17): error C2784: 'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,unsigned char)' : could not deduce template argument for 'std::basic_ostream<char,_Traits> &' from 'std::basic_istream<_Elem,_Traits>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(958) : see declaration of 'std::operator <<'
+     1>f:\csc138\file study in class\array6(enumeration)\enumeration\kok.cpp(17): error C2784: 'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,unsigned char)' : could not deduce template argument for 'std::basic_ostream<char,_Traits> &' from 'std::basic_istream<_Elem,_Traits>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(958) : see declaration of 'std::operator <<'
+     1>f:\csc138\file study in class\array6(enumeration)\enumeration\kok.cpp(17): error C2784: 'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,const unsigned char *)' : could not deduce template argument for 'std::basic_ostream<char,_Traits> &' from 'std::basic_istream<_Elem,_Traits>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(951) : see declaration of 'std::operator <<'
+     1>f:\csc138\file study in class\array6(enumeration)\enumeration\kok.cpp(17): error C2784: 'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,const unsigned char *)' : could not deduce template argument for 'std::basic_ostream<char,_Traits> &' from 'std::basic_istream<_Elem,_Traits>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(951) : see declaration of 'std::operator <<'
+     1>f:\csc138\file study in class\array6(enumeration)\enumeration\kok.cpp(17): error C2784: 'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,const unsigned char *)' : could not deduce template argument for 'std::basic_ostream<char,_Traits> &' from 'std::basic_istream<_Elem,_Traits>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(951) : see declaration of 'std::operator <<'
+     1>f:\csc138\file study in class\array6(enumeration)\enumeration\kok.cpp(17): error C2784: 'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,const unsigned char *)' : could not deduce template argument for 'std::basic_ostream<char,_Traits> &' from 'std::basic_istream<_Elem,_Traits>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(951) : see declaration of 'std::operator <<'
+     1>f:\csc138\file study in class\array6(enumeration)\enumeration\kok.cpp(17): error C2784: 'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,signed char)' : could not deduce template argument for 'std::basic_ostream<char,_Traits> &' from 'std::basic_istream<_Elem,_Traits>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(944) : see declaration of 'std::operator <<'
+     1>f:\csc138\file study in class\array6(enumeration)\enumeration\kok.cpp(17): error C2784: 'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,signed char)' : could not deduce template argument for 'std::basic_ostream<char,_Traits> &' from 'std::basic_istream<_Elem,_Traits>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(944) : see declaration of 'std::operator <<'
+     1>f:\csc138\file study in class\array6(enumeration)\enumeration\kok.cpp(17): error C2784: 'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,signed char)' : could not deduce template argument for 'std::basic_ostream<char,_Traits> &' from 'std::basic_istream<_Elem,_Traits>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(944) : see declaration of 'std::operator <<'
+     1>f:\csc138\file study in class\array6(enumeration)\enumeration\kok.cpp(17): error C2784: 'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,signed char)' : could not deduce template argument for 'std::basic_ostream<char,_Traits> &' from 'std::basic_istream<_Elem,_Traits>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(944) : see declaration of 'std::operator <<'
+     1>f:\csc138\file study in class\array6(enumeration)\enumeration\kok.cpp(17): error C2784: 'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,const signed char *)' : could not deduce template argument for 'std::basic_ostream<char,_Traits> &' from 'std::basic_istream<_Elem,_Traits>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(937) : see declaration of 'std::operator <<'
+     1>f:\csc138\file study in class\array6(enumeration)\enumeration\kok.cpp(17): error C2784: 'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,const signed char *)' : could not deduce template argument for 'std::basic_ostream<char,_Traits> &' from 'std::basic_istream<_Elem,_Traits>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(937) : see declaration of 'std::operator <<'
+     1>f:\csc138\file study in class\array6(enumeration)\enumeration\kok.cpp(17): error C2784: 'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,const signed char *)' : could not deduce template argument for 'std::basic_ostream<char,_Traits> &' from 'std::basic_istream<_Elem,_Traits>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(937) : see declaration of 'std::operator <<'
+     1>f:\csc138\file study in class\array6(enumeration)\enumeration\kok.cpp(17): error C2784: 'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,const signed char *)' : could not deduce template argument for 'std::basic_ostream<char,_Traits> &' from 'std::basic_istream<_Elem,_Traits>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(937) : see declaration of 'std::operator <<'
+     1>f:\csc138\file study in class\array6(enumeration)\enumeration\kok.cpp(17): error C2784: 'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,_Elem)' : could not deduce template argument for 'std::basic_ostream<_Elem,_Traits> &' from 'std::basic_istream<_Elem,_Traits>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(898) : see declaration of 'std::operator <<'
+     1>f:\csc138\file study in class\array6(enumeration)\enumeration\kok.cpp(17): error C2784: 'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,_Elem)' : could not deduce template argument for 'std::basic_ostream<_Elem,_Traits> &' from 'std::basic_istream<_Elem,_Traits>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(898) : see declaration of 'std::operator <<'
+     1>f:\csc138\file study in class\array6(enumeration)\enumeration\kok.cpp(17): error C2784: 'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,_Elem)' : could not deduce template argument for 'std::basic_ostream<_Elem,_Traits> &' from 'std::basic_istream<_Elem,_Traits>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(898) : see declaration of 'std::operator <<'
+     1>f:\csc138\file study in class\array6(enumeration)\enumeration\kok.cpp(17): error C2784: 'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,_Elem)' : could not deduce template argument for 'std::basic_ostream<_Elem,_Traits> &' from 'std::basic_istream<_Elem,_Traits>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(898) : see declaration of 'std::operator <<'
+     1>f:\csc138\file study in class\array6(enumeration)\enumeration\kok.cpp(17): error C2784: 'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const _Elem *)' : could not deduce template argument for 'std::basic_ostream<_Elem,_Traits> &' from 'std::basic_istream<_Elem,_Traits>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(851) : see declaration of 'std::operator <<'
+     1>f:\csc138\file study in class\array6(enumeration)\enumeration\kok.cpp(17): error C2784: 'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const _Elem *)' : could not deduce template argument for 'std::basic_ostream<_Elem,_Traits> &' from 'std::basic_istream<_Elem,_Traits>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(851) : see declaration of 'std::operator <<'
+     1>f:\csc138\file study in class\array6(enumeration)\enumeration\kok.cpp(17): error C2784: 'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const _Elem *)' : could not deduce template argument for 'std::basic_ostream<_Elem,_Traits> &' from 'std::basic_istream<_Elem,_Traits>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(851) : see declaration of 'std::operator <<'
+     1>f:\csc138\file study in class\array6(enumeration)\enumeration\kok.cpp(17): error C2784: 'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const _Elem *)' : could not deduce template argument for 'std::basic_ostream<_Elem,_Traits> &' from 'std::basic_istream<_Elem,_Traits>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(851) : see declaration of 'std::operator <<'
+     1>f:\csc138\file study in class\array6(enumeration)\enumeration\kok.cpp(17): error C2784: 'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,char)' : could not deduce template argument for 'std::basic_ostream<char,_Traits> &' from 'std::basic_istream<_Elem,_Traits>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(811) : see declaration of 'std::operator <<'
+     1>f:\csc138\file study in class\array6(enumeration)\enumeration\kok.cpp(17): error C2784: 'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,char)' : could not deduce template argument for 'std::basic_ostream<char,_Traits> &' from 'std::basic_istream<_Elem,_Traits>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(811) : see declaration of 'std::operator <<'
+     1>f:\csc138\file study in class\array6(enumeration)\enumeration\kok.cpp(17): error C2784: 'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,char)' : could not deduce template argument for 'std::basic_ostream<char,_Traits> &' from 'std::basic_istream<_Elem,_Traits>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(811) : see declaration of 'std::operator <<'
+     1>f:\csc138\file study in class\array6(enumeration)\enumeration\kok.cpp(17): error C2784: 'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,char)' : could not deduce template argument for 'std::basic_ostream<char,_Traits> &' from 'std::basic_istream<_Elem,_Traits>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(811) : see declaration of 'std::operator <<'
+     1>f:\csc138\file study in class\array6(enumeration)\enumeration\kok.cpp(17): error C2784: 'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,const char *)' : could not deduce template argument for 'std::basic_ostream<char,_Traits> &' from 'std::basic_istream<_Elem,_Traits>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(764) : see declaration of 'std::operator <<'
+     1>f:\csc138\file study in class\array6(enumeration)\enumeration\kok.cpp(17): error C2784: 'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,const char *)' : could not deduce template argument for 'std::basic_ostream<char,_Traits> &' from 'std::basic_istream<_Elem,_Traits>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(764) : see declaration of 'std::operator <<'
+     1>f:\csc138\file study in class\array6(enumeration)\enumeration\kok.cpp(17): error C2784: 'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,const char *)' : could not deduce template argument for 'std::basic_ostream<char,_Traits> &' from 'std::basic_istream<_Elem,_Traits>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(764) : see declaration of 'std::operator <<'
+     1>f:\csc138\file study in class\array6(enumeration)\enumeration\kok.cpp(17): error C2784: 'std::basic_ostream<char,_Traits> &std::operator <<(std::basic_ostream<char,_Traits> &,const char *)' : could not deduce template argument for 'std::basic_ostream<char,_Traits> &' from 'std::basic_istream<_Elem,_Traits>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(764) : see declaration of 'std::operator <<'
+     1>f:\csc138\file study in class\array6(enumeration)\enumeration\kok.cpp(17): error C2784: 'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,char)' : could not deduce template argument for 'std::basic_ostream<_Elem,_Traits> &' from 'std::basic_istream<_Elem,_Traits>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(726) : see declaration of 'std::operator <<'
+     1>f:\csc138\file study in class\array6(enumeration)\enumeration\kok.cpp(17): error C2784: 'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,char)' : could not deduce template argument for 'std::basic_ostream<_Elem,_Traits> &' from 'std::basic_istream<_Elem,_Traits>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(726) : see declaration of 'std::operator <<'
+     1>f:\csc138\file study in class\array6(enumeration)\enumeration\kok.cpp(17): error C2784: 'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,char)' : could not deduce template argument for 'std::basic_ostream<_Elem,_Traits> &' from 'std::basic_istream<_Elem,_Traits>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(726) : see declaration of 'std::operator <<'
+     1>f:\csc138\file study in class\array6(enumeration)\enumeration\kok.cpp(17): error C2784: 'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,char)' : could not deduce template argument for 'std::basic_ostream<_Elem,_Traits> &' from 'std::basic_istream<_Elem,_Traits>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(726) : see declaration of 'std::operator <<'
+     1>f:\csc138\file study in class\array6(enumeration)\enumeration\kok.cpp(17): error C2784: 'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const char *)' : could not deduce template argument for 'std::basic_ostream<_Elem,_Traits> &' from 'std::basic_istream<_Elem,_Traits>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(679) : see declaration of 'std::operator <<'
+     1>f:\csc138\file study in class\array6(enumeration)\enumeration\kok.cpp(17): error C2784: 'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const char *)' : could not deduce template argument for 'std::basic_ostream<_Elem,_Traits> &' from 'std::basic_istream<_Elem,_Traits>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(679) : see declaration of 'std::operator <<'
+     1>f:\csc138\file study in class\array6(enumeration)\enumeration\kok.cpp(17): error C2784: 'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const char *)' : could not deduce template argument for 'std::basic_ostream<_Elem,_Traits> &' from 'std::basic_istream<_Elem,_Traits>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(679) : see declaration of 'std::operator <<'
+     1>f:\csc138\file study in class\array6(enumeration)\enumeration\kok.cpp(17): error C2784: 'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const char *)' : could not deduce template argument for 'std::basic_ostream<_Elem,_Traits> &' from 'std::basic_istream<_Elem,_Traits>'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(679) : see declaration of 'std::operator <<'
+     1>f:\csc138\file study in class\array6(enumeration)\enumeration\kok.cpp(17): error C2676: binary '<<' : 'std::basic_istream<_Elem,_Traits>' does not define this operator or a conversion to a type acceptable to the predefined operator
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+     1>Done Building Project "F:\CSC138\FILE STUDY IN CLASS\ARRAY6(ENUMERATION)\enumeration\enumeration.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:06.78

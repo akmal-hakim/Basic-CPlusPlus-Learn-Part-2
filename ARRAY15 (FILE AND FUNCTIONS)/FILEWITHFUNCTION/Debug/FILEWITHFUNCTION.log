@@ -1,0 +1,36 @@
+﻿Build started 14/05/2018 4:12:20 PM.
+     1>Project "C:\Users\User\Desktop\FILEWITHFUNCTION\FILEWITHFUNCTION\FILEWITHFUNCTION.vcxproj" on node 2 (build target(s)).
+     1>PrepareForBuild:
+         Creating directory "C:\Users\User\Desktop\FILEWITHFUNCTION\Debug\".
+       InitializeBuildStatus:
+         Creating "Debug\FILEWITHFUNCTION.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt filewithfunction.cpp
+         filewithfunction.cpp
+     1>c:\users\user\desktop\filewithfunction\filewithfunction\filewithfunction.cpp(44): error C2563: mismatch in formal parameter list
+     1>c:\users\user\desktop\filewithfunction\filewithfunction\filewithfunction.cpp(44): error C2568: '<<' : unable to resolve function overload
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(1021): could be 'std::basic_ostream<_Elem,_Traits> &std::endl(std::basic_ostream<_Elem,_Traits> &)'
+                 with
+                 [
+                     _Elem=unsigned short,
+                     _Traits=std::char_traits<unsigned short>
+                 ]
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(1011): or       'std::basic_ostream<_Elem,_Traits> &std::endl(std::basic_ostream<_Elem,_Traits> &)'
+                 with
+                 [
+                     _Elem=wchar_t,
+                     _Traits=std::char_traits<wchar_t>
+                 ]
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(1003): or       'std::basic_ostream<_Elem,_Traits> &std::endl(std::basic_ostream<_Elem,_Traits> &)'
+                 with
+                 [
+                     _Elem=char,
+                     _Traits=std::char_traits<char>
+                 ]
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\ostream(977): or       'std::basic_ostream<_Elem,_Traits> &std::endl(std::basic_ostream<_Elem,_Traits> &)'
+     1>c:\users\user\desktop\filewithfunction\filewithfunction\filewithfunction.cpp(44): error C2143: syntax error : missing ')' before ';'
+     1>Done Building Project "C:\Users\User\Desktop\FILEWITHFUNCTION\FILEWITHFUNCTION\FILEWITHFUNCTION.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:01.21

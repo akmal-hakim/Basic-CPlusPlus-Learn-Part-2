@@ -1,0 +1,17 @@
+﻿Build started 25-Apr-18 8:45:17 AM.
+     1>Project "E:\CSC138\FILE STUDY IN CLASS\ARRAY11(SRTUCT WITH FUNCTION)\ARRAY11(SRTUCT WITH FUNCTION)\ARRAY11(SRTUCT WITH FUNCTION).vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\ARRAY11(SRTUCT WITH FUNCTION).unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "array with struct.cpp"
+         array with struct.cpp
+     1>e:\csc138\file study in class\array11(srtuct with function)\array11(srtuct with function)\array with struct.cpp(45): error C2660: 'totalSalesbyPerson' : function does not take 3 arguments
+     1>e:\csc138\file study in class\array11(srtuct with function)\array11(srtuct with function)\array with struct.cpp(67): error C2440: 'initializing' : cannot convert from 'void' to 'int'
+                 Expressions of type void cannot be converted to other types
+     1>e:\csc138\file study in class\array11(srtuct with function)\array11(srtuct with function)\array with struct.cpp(73): warning C4244: 'initializing' : conversion from 'const double' to 'int', possible loss of data
+     1>e:\csc138\file study in class\array11(srtuct with function)\array11(srtuct with function)\array with struct.cpp(77): warning C4244: '=' : conversion from 'const double' to 'int', possible loss of data
+     1>Done Building Project "E:\CSC138\FILE STUDY IN CLASS\ARRAY11(SRTUCT WITH FUNCTION)\ARRAY11(SRTUCT WITH FUNCTION)\ARRAY11(SRTUCT WITH FUNCTION).vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.88

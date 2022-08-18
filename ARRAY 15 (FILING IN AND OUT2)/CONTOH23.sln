@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CONTOH23", "CONTOH23\CONTOH23.vcxproj", "{AFFFD06C-C746-4D8F-8D19-AD783BEAB05E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFFFD06C-C746-4D8F-8D19-AD783BEAB05E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{AFFFD06C-C746-4D8F-8D19-AD783BEAB05E}.Debug|Win32.Build.0 = Debug|Win32
+		{AFFFD06C-C746-4D8F-8D19-AD783BEAB05E}.Release|Win32.ActiveCfg = Release|Win32
+		{AFFFD06C-C746-4D8F-8D19-AD783BEAB05E}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

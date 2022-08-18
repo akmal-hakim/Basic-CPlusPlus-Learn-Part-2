@@ -1,0 +1,16 @@
+﻿Build started 18-Apr-18 9:31:57 AM.
+     1>Project "F:\CSC138\FILE STUDY IN CLASS\arraystrct\arraystrct\arraystrct.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\arraystrct.unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt dg.cpp
+         dg.cpp
+     1>f:\csc138\file study in class\arraystrct\arraystrct\dg.cpp(29): error C2065: 'salesPersonrec' : undeclared identifier
+     1>f:\csc138\file study in class\arraystrct\arraystrct\dg.cpp(29): error C2065: 'list' : undeclared identifier
+     1>f:\csc138\file study in class\arraystrct\arraystrct\dg.cpp(30): error C2448: 'getData' : function-style initializer appears to be a function definition
+     1>f:\csc138\file study in class\arraystrct\arraystrct\dg.cpp(61): error C2065: 'saleByQuater' : undeclared identifier
+     1>Done Building Project "F:\CSC138\FILE STUDY IN CLASS\arraystrct\arraystrct\arraystrct.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:01.50
